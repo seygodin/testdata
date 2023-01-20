@@ -1,0 +1,30 @@
+[I 11:46:51.275 NotebookApp] The port 8882 is already in use, trying another port.
+[I 11:46:51.277 NotebookApp] Serving notebooks from local directory: /home/testdata
+[I 11:46:51.277 NotebookApp] The Jupyter Notebook is running at:
+[I 11:46:51.277 NotebookApp] http://616caf54dec8:8883/?token=a35b304f75b09fcc6d4144ac7d41ff92ece8e2444adb20b4
+[I 11:46:51.277 NotebookApp]  or http://127.0.0.1:8883/?token=a35b304f75b09fcc6d4144ac7d41ff92ece8e2444adb20b4
+[I 11:46:51.277 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:46:51.280 NotebookApp] No web browser found: could not locate runnable browser.
+[C 11:46:51.280 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-23351-open.html
+    Or copy and paste one of these URLs:
+        http://616caf54dec8:8883/?token=a35b304f75b09fcc6d4144ac7d41ff92ece8e2444adb20b4
+     or http://127.0.0.1:8883/?token=a35b304f75b09fcc6d4144ac7d41ff92ece8e2444adb20b4
+[I 11:46:55.590 NotebookApp] Interrupted...
+[I 11:46:55.590 NotebookApp] Shutting down 0 kernels
+[I 11:46:58.899 NotebookApp] The port 8882 is already in use, trying another port.
+[I 11:46:58.902 NotebookApp] Serving notebooks from local directory: /home/testdata
+[I 11:46:58.902 NotebookApp] The Jupyter Notebook is running at:
+[I 11:46:58.902 NotebookApp] http://616caf54dec8:8883/?token=cec157df61de576913d903bec585e734defbc2db6519c608
+[I 11:46:58.902 NotebookApp]  or http://127.0.0.1:8883/?token=cec157df61de576913d903bec585e734defbc2db6519c608
+[I 11:46:58.902 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:46:58.904 NotebookApp] No web browser found: could not locate runnable browser.
+[C 11:46:58.904 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-23354-open.html
+    Or copy and paste one of these URLs:
+        http://616caf54dec8:8883/?token=cec157df61de576913d903bec585e734defbc2db6519c608
+     or http://127.0.0.1:8883/?token=cec157df61de576913d903bec585e734defbc2db6519c608
